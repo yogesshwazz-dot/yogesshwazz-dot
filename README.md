@@ -19,12 +19,6 @@
 ⚡ Fun Fact: I believe every bug is just an undocumented feature 😄
 
 
-<p align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&pause=1000&color=00FF00&center=true&vCenter=true&width=900&lines=Loading+Developer...;Initializing+React...;Compiling+JavaScript...;Connecting+Backend...;Mission+Ready!">
-
-</p>
-
 ---
 
 ## 🎮 Yogesh's Developer Quest
@@ -127,6 +121,11 @@
 <p align="center">
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
+
+</p>
+<p align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&pause=1000&color=00FF00&center=true&vCenter=true&width=900&lines=Loading+Developer...;Initializing+React...;Compiling+JavaScript...;Connecting+Backend...;Mission+Ready!">
 
 </p>
 

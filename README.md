@@ -18,27 +18,6 @@
 
 ⚡ Fun Fact: I believe every bug is just an undocumented feature 😄
 
----
-
-## 🚀 Tech Stack
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,js,html,css" />
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,nodejs" />
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
-</p>
 
 <p align="center">
 
@@ -120,7 +99,6 @@
 ![](https://komarev.com/ghpvc/?username=yogesshwazz-do&style=for-the-badge&color=blueviolet)
 
 </p>
----
 
 
 ## 🌐 Connect With Me

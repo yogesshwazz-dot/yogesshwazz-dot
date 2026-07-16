@@ -109,10 +109,6 @@
   <img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub"/>
 </a>
 
-<a href="https://www.instagram.com/_.yogeshhwarr._" target="_blank">
-  <img src="https://skillicons.dev/icons?i=instagram" height="50" alt="Instagram"/>
-</a>
-
 <a href="https://discord.com/users/yogzzbro" target="_blank">
   <img src="https://skillicons.dev/icons?i=discord" height="50" alt="Discord"/>
 </a>

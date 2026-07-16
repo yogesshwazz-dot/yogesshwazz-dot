@@ -122,7 +122,6 @@
 <p align="center">
 
 💬 <strong>Discord:</strong> <code>yogzzbro</code><br>
-📷 <strong>Instagram:</strong> <a href="https://www.instagram.com/_.yogeshhwarr._">@_.yogeshhwarr._</a><br>
 📧 <strong>Email:</strong> <a href="mailto:yogesshwazz@gmail.com">yogesshwazz@gmail.com</a>
 
 <p align="center">

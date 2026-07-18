@@ -88,11 +88,7 @@
 
 ---
 
-<p align="center">
 
-![](https://komarev.com/ghpvc/?username=yogesshwazz-do&style=for-the-badge&color=blueviolet)
-
-</p>
 
 
 ## 🌐 Connect With Me
@@ -130,6 +126,12 @@
 </p>
 
 
+
+
 <h3 align="center">
 ⭐ Thanks for visiting my profile! ⭐
-</h3>
+</h3><p align="center">
+
+![](https://komarev.com/ghpvc/?username=yogesshwazz-do&style=for-the-badge&color=blueviolet)
+
+</p>

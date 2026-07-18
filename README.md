@@ -131,8 +131,13 @@
 <h3 align="center">
 ⭐ Thanks for visiting my profile! ⭐
 </h3>
-<p align="center">
+<div align="center">
 
- ![](https://komarev.com/ghpvc/?username=yogesshwazz-do&style=for-the-badge&color=blueviolet)
+<img src="https://komarev.com/ghpvc/?username=yogesshwazz-do&style=for-the-badge&color=blueviolet" alt="Profile Views" />
 
-</p>
+</div>
+
+<div align="center">
+
+
+

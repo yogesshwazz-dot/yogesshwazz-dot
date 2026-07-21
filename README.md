@@ -99,9 +99,6 @@
   <img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub"/>
 </a>
 
-<a href="https://discord.com/users/yogzzbro" target="_blank">
-  <img src="https://skillicons.dev/icons?i=discord" height="50" alt="Discord"/>
-</a>
 
 <a href="mailto:yogesshwazz@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" height="50" alt="Gmail"/>
@@ -111,8 +108,7 @@
 
 <p align="center">
 
-💬 <strong>Discord:</strong> <code>yogzzbro</code><br>
-📧 <strong>Email:</strong> <a href="mailto:yogesshwazz@gmail.com">yogesshwazz@gmail.com</a>
+
 
 <p align="center">
 
